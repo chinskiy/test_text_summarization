@@ -3,7 +3,7 @@ Jinja2==2.8
 MarkupSafe==0.23
 Werkzeug==0.10.4
 newspaper==0.0.9.8
-Pillow==2.9.0
+Pillow==3.3.2
 PyYAML==3.11
 beautifulsoup4==4.3.2
 feedfinder2==0.0.1
